@@ -1,5 +1,3 @@
-import Image from 'next/image'
-
 export default function Home() {
   return (
     <main className="min-h-screen bg-[#0A2E1F] text-white">
@@ -32,7 +30,7 @@ export default function Home() {
               Future-Proof Your Workforce with <span className="text-[#2E8B57]">SIMBA</span>
             </h1>
             <p className="text-xl mb-8 text-gray-300">
-              We don't just help you hire - we help you build a workforce that thrives in tomorrow's world. 
+              We don&apos;t just help you hire - we help you build a workforce that thrives in tomorrow&apos;s world. 
               Our unique Vibe Coding approach ensures your team is ready for whatever the future holds.
             </p>
             <div className="flex space-x-4">
@@ -53,7 +51,7 @@ export default function Home() {
                     <span className="text-3xl">⚡</span>
                   </div>
                   <h3 className="text-2xl font-bold mb-2">Vibe Coding</h3>
-                  <p className="text-gray-300">Where talent meets tomorrow's technology</p>
+                  <p className="text-gray-300">Where talent meets tomorrow&apos;s technology</p>
                 </div>
               </div>
             </div>
@@ -68,7 +66,7 @@ export default function Home() {
           {[
             {
               title: "Future-Ready Talent",
-              description: "We identify candidates who can adapt and grow with your company's evolving needs."
+              description: "We identify candidates who can adapt and grow with your company&apos;s evolving needs."
             },
             {
               title: "Vibe Coding Assessment",
